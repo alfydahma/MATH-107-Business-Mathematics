@@ -11,7 +11,7 @@
     </latax-image-preamble>
   </docinfo>
 
-  <book xml:id="my-great-book">
+  <book xml:id="bus-math">
     <title>MATH 107</title>
     <subtitle>Business Mathematics</subtitle>
 
@@ -46,10 +46,10 @@
       </colophon>
     </frontmatter>
 
-    <chapter xml:id="chapter-title">
+    <chapter xml:id="lin-quad">
       <title>Linear and Quadratic Functions with Applications</title>
 
-      <section xml:id="section-title">
+      <section xml:id="graphs">
         <title>Graphs and Solutions of Equations</title>
         <p>The Euclidean plane or rectangular coordinate system is formed by 
           two perpendicular copies of the real line intersecting at the number 
