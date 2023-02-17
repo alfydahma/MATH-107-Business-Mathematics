@@ -50,8 +50,16 @@
       <title>Linear and Quadratic Functions with Applications</title>
 
       <section xml:id="section-title">
-        <title>Section title</title>
-        <p>Hello</p>
+        <title>Graphs and Solutions of Equations</title>
+        <p>The Euclidean plane or rectangular coordinate system is formed by 
+          two perpendicular copies of the real line intersecting at the number 
+          <m>0</m> of each number line.  Each number of these number 
+          lines is called an <term>axis</term>.  Points in the
+          plane, called <term>ordered pairs</term>, are specified by 
+          (horizontal position, vertical position).  
+          The horizontal axis is often labeled <m>x</m> and the vertical axis <m>y</m>. 
+          The point <m>(0,0)</m> is called the origin. The plane is divided 
+          into 4 quadrants, as pictured below.  </p>
       </section>
 
     </chapter>
